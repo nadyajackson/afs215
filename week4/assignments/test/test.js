@@ -67,7 +67,7 @@ it('Return GE @21', function(){
     expect(new Day(21).display()).to.equal('Good Evening')
 })
 
-//HELP HERE
+
 it('Return string @ 4', function(){
     expect(new Day(4).display()).to.equal("4 is now a string")
 })
